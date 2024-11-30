@@ -102,7 +102,7 @@ class _FlutterMapSearchPickPriceRouteState
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
         content: Text(
-          "Distance : ${distanceInMeters.round()} /Meters \n Price: ${priceorder} \$ \n Time: ${timeorder} minutes",
+          "Distance : ${distanceInMeters.round()} /Meters \n Price: \$ $priceorder \$ \n Time: $timeorder minutes",
           style: const TextStyle(color: Colors.white, fontSize: 20),
         ),
         backgroundColor: Colors.red,

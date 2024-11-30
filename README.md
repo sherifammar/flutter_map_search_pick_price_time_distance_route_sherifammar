@@ -41,14 +41,15 @@ you are required:
  price of meter
  speed for meter
 
-   FlutterMapSearchAndPinkRoute(
+ 
+
+```
+  FlutterMapSearchAndPinkRoute(
                 latidedCurrent: 29,
                 orsApiKey: 'your Api key from flutter map',
                 longtideCurrent: 92,
                 pricepermeter: 5,// your price of meter
                 timepermeter: 10,// time will take for one meter
               ),
-
-```
 
 
