@@ -1,6 +1,6 @@
 name: flutter_map_search_pick_price_time_distance_route_sherifammar
 description: "search location by places"
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/sherifammar/flutter_map_search_pick_price_time_distance_route_sherifammar
 
 environment:

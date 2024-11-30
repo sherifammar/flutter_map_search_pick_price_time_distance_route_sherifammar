@@ -44,7 +44,7 @@ you are required:
  
 
 ```
-  FlutterMapSearchAndPinkRoute(
+  FlutterMapSearchPickPriceRoute(
                 latidedCurrent: 29,
                 orsApiKey: 'your Api key from flutter map',
                 longtideCurrent: 92,
