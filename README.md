@@ -37,7 +37,7 @@ import 'flutter_map_search_pick_price_time_distance_route_sherifammar/flutter_ma
 ## Usage
 
 you are required:
- API key for flutter map
+ token from openrouteservice web site
  price of meter
  speed for meter
 
@@ -45,9 +45,9 @@ you are required:
 
 ```
   FlutterMapSearchPickPriceRoute(
-                latidedCurrent: 29,
-                orsApiKey: 'your Api key from flutter map',
-                longtideCurrent: 92,
+                latidedCurrent: 29,// require latitude
+                orsApiKey: 'your token from openrouteservice web site',
+                longtideCurrent: 92,// require longitude
                 pricepermeter: 5,// your price of meter
                 timepermeter: 10,// time will take for one meter
               ),
