@@ -1,6 +1,6 @@
 name: flutter_map_search_pick_price_time_distance_route_sherifammar
 description: "measure distance, time and price and make route between two  points by search location"
-version: 0.0.6
+version: 0.0.7
 repository: https://github.com/sherifammar/flutter_map_search_pick_price_time_distance_route_sherifammar
 
 environment:
